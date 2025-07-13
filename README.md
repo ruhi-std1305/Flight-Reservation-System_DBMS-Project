@@ -48,9 +48,12 @@ To run this project on your local machine, you will need:
 
 ## 📁 File Structure
 flight-reservation-system/
-└── index.html  # Input interface/
-└── execute.php  # SQL processing & output/
-└── style.css   # UI styles and animations/
+
+└── index.html  # Input interface
+
+└── execute.php  # SQL processing & output
+
+└── style.css/   # UI styles and animations
 
 
 ---
