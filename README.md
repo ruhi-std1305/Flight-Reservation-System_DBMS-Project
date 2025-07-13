@@ -11,7 +11,7 @@ This project allows users to input custom SQL queries via a user-friendly web in
 
 ---
 
-## ✨ Features
+##  Features
 
 - Input and run raw SQL queries via form
 - Display result of `SELECT`, `INSERT`, `DELETE`, `UPDATE` queries
@@ -23,7 +23,7 @@ This project allows users to input custom SQL queries via a user-friendly web in
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool         | Purpose                                 |
 |--------------|------------------------------------------|
@@ -45,14 +45,28 @@ To run this project on your local machine, you will need:
 - Basic understanding of SQL queries
 
 ---
+
+## 📁 File Structure
+flight-reservation-system/
+└── index.html  # Input interface
+└── execute.php  # SQL processing & output
+└── style.css   # UI styles and animations
+
+---
+
+📝 Notes
+-This is a *solo project* developed by *Me*
+
+- It serves both academic and learning purposes
+
+-Useful for students practicing SQL, normalization, and PHP-MySQL integration
+
+-Can be used as a base for DBMS practice or a mini admin system
+
+---
+
 🧠 Learning Outcome
 This project helped me understand database schema design, normalization (up to 3NF), relational query writing (JOIN, GROUP BY, Subquery), as well as frontend-backend integration using PHP and MySQL.
 
----
-## 📁 File Structure
-flight-reservation-system/
-├── index.html
-├── execute.php
-├── style.css
 
 
