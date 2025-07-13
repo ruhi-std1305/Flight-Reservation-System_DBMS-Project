@@ -56,13 +56,14 @@ flight-reservation-system/
 ---
 
 📝 Notes
--This is a *solo project* developed by *Me*
+
+- This is a *solo project* developed by *Me*
 
 - It serves both academic and learning purposes
 
--Useful for students practicing SQL, normalization, and PHP-MySQL integration
+- Useful for students practicing SQL, normalization, and PHP-MySQL integration
 
--Can be used as a base for DBMS practice or a mini admin system
+- Can be used as a base for DBMS practice or a mini admin system
 
 
 ---
