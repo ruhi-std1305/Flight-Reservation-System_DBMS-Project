@@ -53,9 +53,7 @@ To run this project on your local machine, you will need:
   
   ├── execute.php # SQL processing & output
   
-  ├── style.css # UI styles and animations
-  
-  ``` </pre>
+  ├── style.css # UI styles and animations ``` </pre>
 
 ---
 
