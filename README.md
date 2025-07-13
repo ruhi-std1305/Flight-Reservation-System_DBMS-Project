@@ -1,11 +1,11 @@
 # Flight-Reservation-System_DBMS-Project
-##  Project Introduction
+##  Introduction
 
 The **Flight Reservation System** simulates a simplified airline ticket booking system where users can execute raw SQL queries and interact with backend data such as flights, passengers, bookings, and payments. This system is designed specifically for academic purposes to demonstrate practical database modeling, normalization, and SQL query execution through a web-based interface.
 
 ---
 
-##  Project Overview
+##  Overview
 
 This project allows users to input custom SQL queries via a user-friendly web interface and view real-time results. It includes features like flight management, booking records, and payment tracking — all handled through a relational database. The interface includes a light/dark theme toggle and modern UI elements built using CSS and Bootstrap. This project is fully dynamic and serves as a hands-on learning tool for students studying relational databases and SQL.
 
@@ -48,9 +48,10 @@ To run this project on your local machine, you will need:
 
 ## 📁 File Structure
 flight-reservation-system/
-└── index.html  # Input interface
-└── execute.php  # SQL processing & output
-└── style.css   # UI styles and animations
+└── index.html  # Input interface/
+└── execute.php  # SQL processing & output/
+└── style.css   # UI styles and animations/
+
 
 ---
 
@@ -63,9 +64,11 @@ flight-reservation-system/
 
 -Can be used as a base for DBMS practice or a mini admin system
 
+
 ---
 
 🧠 Learning Outcome
+
 This project helped me understand database schema design, normalization (up to 3NF), relational query writing (JOIN, GROUP BY, Subquery), as well as frontend-backend integration using PHP and MySQL.
 
 
