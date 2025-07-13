@@ -39,10 +39,10 @@ This project allows users to input custom SQL queries via a user-friendly web in
 
 To run this project on your local machine, you will need:
 
-- ✅ [XAMPP](https://www.apachefriends.org/index.html) or any PHP+MySQL web server
-- ✅ A web browser (Chrome/Firefox/Edge)
-- ✅ MySQL database setup
-- ✅ Basic understanding of SQL queries
+- [XAMPP](https://www.apachefriends.org/index.html) or any PHP+MySQL web server
+- A web browser (Chrome/Firefox/Edge)
+- MySQL database setup
+- Basic understanding of SQL queries
 
 ---
 
