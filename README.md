@@ -47,7 +47,15 @@ To run this project on your local machine, you will need:
 ---
 
 ## 📁 File Structure
-<pre> ```  flight-reservation-system/ ├── index.html # Input interface ├── execute.php # SQL processing & output ├── style.css # UI styles and animations ``` </pre>
+<pre> ```  flight-reservation-system/ 
+  
+  ├── index.html # Input interface
+  
+  ├── execute.php # SQL processing & output
+  
+  ├── style.css # UI styles and animations
+  
+  ``` </pre>
 
 ---
 
