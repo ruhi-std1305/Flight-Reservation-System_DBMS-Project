@@ -45,5 +45,14 @@ To run this project on your local machine, you will need:
 - Basic understanding of SQL queries
 
 ---
+🧠 Learning Outcome
+This project helped me understand database schema design, normalization (up to 3NF), relational query writing (JOIN, GROUP BY, Subquery), as well as frontend-backend integration using PHP and MySQL.
 
+---
 ## 📁 File Structure
+flight-reservation-system/
+├── index.html
+├── execute.php
+├── style.css
+
+
